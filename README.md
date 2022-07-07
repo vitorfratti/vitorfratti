@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/vitorfratti/f618b016583d4e3a1dbc901521d7e4e2/raw/c884b1407109bc598210a2d1aae4ac5cc636cc9e/newgithubcard.svg"></img>
+<img align="right" height="720rem" src="https://raw.githubusercontent.com/gist/vitorfratti/f618b016583d4e3a1dbc901521d7e4e2/raw/c884b1407109bc598210a2d1aae4ac5cc636cc9e/newgithubcard.svg"></img>
 
 # Olá, meu nome é Vitor! 🤠
 

@@ -23,10 +23,12 @@ const developer = {
 ![HTML](https://img.shields.io/badge/-HTML-247e63?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-247e63?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-247e63?style=flat&logo=javascript)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-247e63?style=flat&logo=markdown)&nbsp;
+<br>
+![Git](https://img.shields.io/badge/-Git-247e63?style=flat&logo=git)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-247e63?style=flat&logo=sass)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-247e63?style=flat&logo=vue.js)&nbsp;
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-247e63?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-247e63?style=flat&logo=github)&nbsp;
 
 <img width="305rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfratti&layout=compact&theme=vue-dark"></img>
 

@@ -27,5 +27,5 @@ const developer = {
 
 ## Contato:
 
-<a href="https://www.instagram.com/fra.tti/"><img src="https://img.shields.io/badge/Instagram-000165.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a href="mailto:vifratti@gmail.com"><img src="https://img.shields.io/badge/Gmail-000165.svg?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/vitor-fratti-82445022b/"><img src="https://img.shields.io/badge/LinkedIn-000165?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>

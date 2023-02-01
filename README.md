@@ -6,7 +6,7 @@
 
 const developer = {
     name: "Vitor Fratti",
-    age: "18",
+    age: "19",
     stack: "Front-end",
     nationality: "Brazilian"
 }

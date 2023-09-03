@@ -1,31 +1,8 @@
-<img align="right" height="600rem" src="https://raw.githubusercontent.com/gist/vitorfratti/eb4590a79db6b51e4533b43e8bb0038c/raw/61cda4547c93c2686d9bd723b1c4ecc868211bbb/githubcard-linkedin.svg"></img>
+# Bem-vindo, meu nome é Vitor Fratti
 
-# Olá, meu nome é Vitor! 🤠
+Front-end Developer
 
-```javascript
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Fratti-448EEB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-fratti-1b0310288/)](https://www.linkedin.com/in/vitor-fratti-1b0310288/) 
+[![Gmail Badge](https://img.shields.io/badge/-vifratti@gmail.com-448EEB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vifratti@gmail.com)](mailto:vifratti@gmail.com)
 
-const developer = {
-    name: "Vitor Fratti",
-    age: "19",
-    stack: "Front-end",
-    nationality: "Brazilian"
-}
-
-```
-
-## Tecnologias e Ferramentas:
-
-![HTML](https://img.shields.io/badge/-HTML-000165?style=flat&logo=HTML5&logoColor=ffffff)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000165?style=flat&logo=CSS3&logoColor=ffffff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000165?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000165?style=flat&logo=git&logoColor=ffffff)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-000165?style=flat&logo=sass&logoColor=ffffff)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-000165?style=flat&logo=vue.js&logoColor=ffffff)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000165?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
-
-<img width="305rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfratti&layout=compact&theme=algolia"></img>
-
-## Contato:
-
-<a href="#"><img src="https://img.shields.io/badge/Gmail-000165.svg?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/vitor-fratti-82445022b/"><img src="https://img.shields.io/badge/LinkedIn-000165?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+Tenho 19 anos e atuo como Desenvolvedor Front-end. Atualmente estou cursando o 2º semestre de Engenharia de Software e trabalhando todos os dias com React, jQuery, PHP e WordPress. Tenho buscado constantemente abordagens modernas e altamente eficazes no desenvolvimento.
